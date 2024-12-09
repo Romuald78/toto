@@ -4,3 +4,5 @@
 
 #define TOTO 1
 
+# define DEV2 abcde
+
